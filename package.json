@@ -1,0 +1,14 @@
+{
+  "name": "reporteador",
+  "version": "1.0.0",
+  "description": "Mi primer Proyecto GUI",
+  "main": "main.js",
+  "author": "Angel",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
